@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Intel
+Build-Jdk: version 11.0.2
+Implementation-Title: java_4
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: project
+Main-Class: ${start-class}
+
